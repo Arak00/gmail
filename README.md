@@ -39,12 +39,13 @@ Liens githubs des pré-requis :
 - [x] Scraping des données
 - [x] Données enregistrées sur notre Spreadsheet
 - [ ] Envoi des mails aux mairies
+- [x] 
 - [ ] Bot Twitter 
 
 ## La Team <3 :heart:
 
 ** Alex, Aude & Jordane
-
+[Notre Twitter crée spécialement pour l'occasion](https://twitter.com/CoderThp) Bon, Twitter a fait des siennes hier, on n'a pas pu le pimper à souhait
 * Avec l'aide de...
 * Visual Studio Code pour Aude & Alex
 * Sublime Text pour Jordane
