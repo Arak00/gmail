@@ -34,7 +34,7 @@ Liens githubs des pré-requis :
 > :warning: IMPORTANT :warning:  
 > N’oubliez pas d'insérer votre fichier ```config.json``` avec vos tokens pour que les programmes fonctionnent !
 
-> Changez également la partie spreadsheet_by_key```("XXXXXXkXxXxXxXXXXXxXXx-XXXXxxXxXxxxXXXXXxXXX")``` .worksheets[0] avec votre spreadsheet key
+> Remplacez également la partie spreadsheet_by_key```("XXXXXXkXxXxXxXXXXXxXXx-XXXXxxXxXxxxXXXXXxXXX")```  avec votre spreadsheet key
 
 *(Un k s'est glissé dans la clé, sauras-tu le retrouver?)*
 
