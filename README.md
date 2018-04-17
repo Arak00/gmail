@@ -8,15 +8,15 @@ Le projet du jour se déroule en 3 étapes.
 2. Utiliser ce Spreadsheet nouvellement crée et envoyer un mail à toutes ces adresses e-mails récoltées.
 3. Création d’un bot Twitter qui va chercher pour nous les comptes Twitter, les enregistrer dans ce même Spreadsheet et les follow !
 
-## L’arborescence du dossier
-Notre dossier Gmail est constitué en 4 grandes parties :
+## Organisation
+Notre dossier Gmail est constitué en 4 dossiers :
 
 * database
 * scrapper
 * mailer
 * twitter
 
-## Comment se servir du programme et les gems utilisées
+## How it works ?
 
 Pour faire tourner tous les fichiers, il est nécessaire d'installer plusieurs gems. 
 Pour cela, rien de plus simple : une fois le dossier cloné sur l'ordinateur, 
@@ -34,13 +34,15 @@ Liens githubs des pré-requis :
 > :warning: IMPORTANT :warning:  
 > N’oubliez pas de configurer votre config.json avec vos tokens pour que les programmes fonctionnent !
 
-## Ce qui a été fait :
+## Petit Bilan :
 
 - [x] Scraping des données
 - [x] Données enregistrées sur notre Spreadsheet
 - [ ] Envoi des mails aux mairies
 - [x] 
 - [ ] Bot Twitter 
+
+:pry: Indulgence required, we did our best :smile:
 
 ## La Team <3 :heart:
 
