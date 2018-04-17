@@ -40,8 +40,8 @@ Liens githubs des pré-requis :
 
 ## Petit Bilan :
 
-- [x] Scraping des données
-- [x] Données enregistrées sur notre Spreadsheet
+- [x] Scraping des données 
+- [x] Données enregistrées sur notre [Spreadsheet](https://docs.google.com/spreadsheets/d/1Iu8YETEK0J9lS1qaV8OIr0J939PyxTvt-IDjA5Y5XM4/edit?usp=sharing)
 - [ ] Envoi des mails aux mairies
 - [ ] Bot Twitter 
 
