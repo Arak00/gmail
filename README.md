@@ -32,7 +32,10 @@ Liens githubs des pré-requis :
 * [Dotenv](https://github.com/bkeepers/dotenv)
 
 > :warning: IMPORTANT :warning:  
-> N’oubliez pas de configurer votre config.json avec vos tokens pour que les programmes fonctionnent !
+> N’oubliez pas d'insérer votre fichier ```config.json``` avec vos tokens pour que les programmes fonctionnent !
+> Changez également la partie spreadsheet_by_key("XXXXXXkXxXxXxXXXXXxXXx-XXXXxxXxXxxxXXXXXxXXX").worksheets[0] avec votre spreadsheet key
+
+*(Un k s'est glissé dans la clé, sauras-tu le retrouver?)*
 
 ## Petit Bilan :
 
