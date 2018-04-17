@@ -45,7 +45,7 @@ Liens githubs des pré-requis :
 
 ## La Team <3 :heart:
 
-> Alex, Aude & Jordane 
+**_ _ Alex, Aude & Jordane _ _**
 
 [Notre Twitter crée spécialement pour l'occasion](https://twitter.com/CoderThp) Bon, Twitter a fait des siennes hier, on n'a pas pu le pimper à souhait
 
