@@ -46,10 +46,13 @@ Liens githubs des pré-requis :
 ## La Team <3 :heart:
 
 ** Alex, Aude & Jordane
+
 [Notre Twitter crée spécialement pour l'occasion](https://twitter.com/CoderThp) Bon, Twitter a fait des siennes hier, on n'a pas pu le pimper à souhait
-* Avec l'aide de...
+
+Avec l'aide de...
 * Visual Studio Code pour Aude & Alex
 * Sublime Text pour Jordane
+* de beaucoup de café :coffee:
 
 ###### Nos Slacks :love_letter:
 
