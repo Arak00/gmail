@@ -39,10 +39,9 @@ Liens githubs des pré-requis :
 - [x] Scraping des données
 - [x] Données enregistrées sur notre Spreadsheet
 - [ ] Envoi des mails aux mairies
-- [x] 
 - [ ] Bot Twitter 
 
-:pry: Indulgence required, we did our best :smile:
+:pray: Indulgence required, we did our best :smile:
 
 ## La Team <3 :heart:
 
