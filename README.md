@@ -4,9 +4,9 @@
 ## Introduction
 
 Le projet du jour se déroule en 3 étapes. 
-1- Création d’un programme va scraper les données de 3 départements, puis les mettre dans un Spreadsheet.
-2 - Utiliser ce Spreadsheet nouvellement crée et envoyer un mail à toutes ces adresses e-mails récoltées.
-3 - Création d’un bot Twitter qui a pour de chercher les comptes Twitter, les enregistrer dans ce même Spreadsheet et les follow !
+1. Création d’un programme va scraper les données de 3 départements, puis les mettre dans un Spreadsheet.
+2. Utiliser ce Spreadsheet nouvellement crée et envoyer un mail à toutes ces adresses e-mails récoltées.
+3. Création d’un bot Twitter qui a pour de chercher les comptes Twitter, les enregistrer dans ce même Spreadsheet et les follow !
 
 ## L’arborescence du dossier
 Notre dossier Gmail est constitué en 4 grandes parties :
