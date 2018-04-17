@@ -1,0 +1,5 @@
+.env
+.DS_Store
+.bundle/*
+scrapper/config.json
+mailer/config.json
