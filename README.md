@@ -47,7 +47,7 @@ Liens githubs des pré-requis :
 
 :pray: Indulgence required, we did our best :smile:
 
-## La Team <3 :heart:
+## La Team :heart:
 
 **_ _Alex, Aude & Jordane_ _**
 
