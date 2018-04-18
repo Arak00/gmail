@@ -11,7 +11,7 @@ require 'dotenv'
 def send_emails_to_line()
   # On appelle le Google Spreadsheet
     session = GoogleDrive::Session.from_config("config.json")
-    $ws = session.spreadsheet_by_key("1_w6N7T4X9SBDX_gVRaBmyLPwrsOKhHIJXdNZTe9yY_8").worksheets[0]
+    $ws = session.spreadsheet_by_key("1Iu8YETEK0J9lS1qaV8OIr0J939PyxTvt-IDjA5Y5XM4").worksheets[0]
   # On appelle l'utilisateur à s'authentifier
     puts "Gmail username (or email):"
     login = gets.chomp
